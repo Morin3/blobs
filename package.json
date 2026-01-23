@@ -82,7 +82,7 @@
     "test": "test"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.0.0",
+    "@commitlint/cli": "^18.0.0",
     "@commitlint/config-conventional": "^17.0.0",
     "@netlify/eslint-config-node": "^7.0.1",
     "c8": "^9.0.0",
